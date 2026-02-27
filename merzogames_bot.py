@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-
-# -*- coding: utf-8 -*-
-
-“””
-MERZOGAMES TELEGRAM BOT
-Профессиональный бот для развлекательной платформы
-Python 3.12+ | aiogram 3.x | Полная реализация 2026
-
-Автор: Autonomous AI Developer
-Дата: 2026-02-27
-“””
 
 import asyncio
 import hashlib
