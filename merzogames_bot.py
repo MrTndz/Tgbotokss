@@ -1287,7 +1287,7 @@ def get_delete_confirm_keyboard(lang: str = "ru") -> InlineKeyboardMarkup:
 # ════════════════════════════════════════════════════════════════
 
 # Инициализация
-bot = Bot(token=BOT_TOKEN, parse_mode="HTML")
+bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
 db = Database(DB_PATH)
 router = Router()
